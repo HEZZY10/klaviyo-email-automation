@@ -16,13 +16,13 @@ E-commerce email and SMS automation builds using Klaviyo.
 | Welcome Series - Customer v. Non-Customer | 🟢 Live |
 | Winback Flow (Bring Dead Customers Back) | 🟢 Live |
 
-![Klaviyo Flows](klaviyo_flows_by_hezekiah.png)
+![Klaviyo Flows](klaviyo flows by hezekiah.png)
 
 ## Winback Flow — Canvas View
 Multi-step re-engagement sequence targeting inactive customers
 with timed delays and strategic messaging.
 
-![Winback Flow Canvas](wonback%20flow.png)
+![Winback Flow Canvas](wonback flow.png)
 
 ## Forms & Popups Built
 
