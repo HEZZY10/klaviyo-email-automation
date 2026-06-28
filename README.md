@@ -22,7 +22,7 @@ E-commerce email and SMS automation builds using Klaviyo.
 Multi-step re-engagement sequence targeting inactive customers
 with timed delays and strategic messaging.
 
-![Winback Flow Canvas](wonback_flow.png)
+![Winback Flow Canvas](wonback%20flow.png)
 
 ## Forms & Popups Built
 
@@ -31,10 +31,10 @@ with timed delays and strategic messaging.
 - First Order Discount Popup — New Eden
 - Multi-step signup with Teaser, Email Opt-In, Profile Info, Text Opt-In
 
-![Klaviyo Forms](kaviyo_form_by_hezekiah.png)
-![Email Opt-In Popup](klaviyo_by_hezekiah.png)
-![Teaser Widget](teaser_by_hezekiah.png)
-![Reveal My Offer Popup](klaviyo_heze.png)
+![Klaviyo Forms](kaviyo%20form%20by%20hezekiah.png)
+![Email Opt-In Popup](klaviyo%20by%20hezekiah.png)
+![Teaser Widget](teaser%20by%20hezekiah.png)
+![Reveal My Offer Popup](klaviyo%20heze.png)
 
 ## Skills
 Klaviyo · Email Flow Automation · SMS Automation · A/B Testing ·
