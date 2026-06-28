@@ -15,7 +15,6 @@ E-commerce email and SMS automation builds using Klaviyo.
 | Welcome Flow (New Subscribers) | 🟢 Live |
 | Welcome Series - Customer v. Non-Customer | 🟢 Live |
 | Winback Flow (Bring Dead Customers Back) | 🟢 Live |
-
 ![Klaviyo Flows](klaviyo flows by hezekiah.png)
 
 ## Winback Flow — Canvas View
