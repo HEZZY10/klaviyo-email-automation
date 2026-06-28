@@ -30,8 +30,9 @@ with timed delays and strategic messaging.
 - Complete Email Capture System (Popup + Flyout + Landing Page)
 - First Order Discount Popup — New Eden
 - Multi-step signup with Teaser, Email Opt-In, Profile Info, Text Opt-In
-
-![Klaviyo Forms](kaviyo%20form%20by%20hezekiah.png)
+![Klaviyo Coupon Success](Screenshot%202026-06-28%20135243.png)
+![First Order Discount Popup](Screenshot%202026-06-28%20135307.png)
+![Klaviyo Flows](klaviyo flows by hezekiah.png)
 ![Email Opt-In Popup](klaviyo%20by%20hezekiah.png)
 ![Teaser Widget](teaser%20by%20hezekiah.png)
 ![Reveal My Offer Popup](klaviyo%20heze.png)
